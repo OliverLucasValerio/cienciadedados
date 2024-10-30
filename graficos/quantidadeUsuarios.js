@@ -22,7 +22,7 @@ async function quantidadeUsuariosPorRede() {
         plot_bgcolor: getCSS('--bg-color'),
         paper_bgcolor: getCSS('--bg-color'),
         title: {
-            text: 'Notas de Oliver',
+            text: ':)',
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
