@@ -42,7 +42,7 @@ async function quantidadeUsuariosPorRede() {
         yaxis: {
             tickfont: tickConfig,
             title: {
-                text: 'Notas do 2 Trimeste, 2024',
+                text: 'Notas do 2 Trimeste, (2024)',
                 font: {
                     color: getCSS('--secondary-color')
                 }
