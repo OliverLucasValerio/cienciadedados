@@ -22,7 +22,7 @@ async function quantidadeUsuariosPorRede() {
         plot_bgcolor: getCSS('--bg-color'),
         paper_bgcolor: getCSS('--bg-color'),
         title: {
-            text: 'Minhas Notas',
+            text: 'Notas de Oliver',
             x: 0,
             font: {
                 color: getCSS('--primary-color'),
@@ -42,7 +42,7 @@ async function quantidadeUsuariosPorRede() {
         yaxis: {
             tickfont: tickConfig,
             title: {
-                text: 'Bilhões de usuários ativos',
+                text: 'Notas do 2 Trimeste, *2024*',
                 font: {
                     color: getCSS('--secondary-color')
                 }
